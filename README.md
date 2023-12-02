@@ -25,3 +25,12 @@ This is a simple command-line Python calculator program that allows users to per
     When the program is running, choose the desired operation from the provided options.
    For operations that require input, provide the numbers as prompted.
    Follow the instructions displayed on the screen.
+
+   # Rock-Paper-Scissors Game
+This Python project implements a classic Rock-Paper-Scissors game. The user is prompted to select rock, paper, or scissors, and the computer randomly generates its choice. The winner is determined based on the game logic where rock beats scissors, scissors beat paper, and paper beats rock. The program provides a user-friendly interface with clear instructions and feedback. It also optionally tracks scores for multiple rounds and allows users to play consecutive rounds if desired.The game aims to demonstrate fundamental programming concepts such as user input, random number generation, conditional statements, and loops while providing an engaging and interactive experience for users.
+
+Features:
+1. Allows users to play Rock-Paper-Scissors against the computer
+2. User-friendly interface with clear instructions and feedback
+3. Determines the winner based on game logic: rock beats scissors, scissors beat paper, and paper beats rock
+4. Tracks scores for multiple rounds (optional)
