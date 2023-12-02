@@ -1,8 +1,8 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
 contacts = [
-    {"name": "Venkat", "phone": "6304761707", "address": "Hyderabad", "email": "venkatvalluri@gamil.com"},
-    {"name": "Shravan", "phone": "9262104328", "address": "Hyderabad", "email": "shravanthandra@gmail.com"}
+    {"name": "Sagar", "phone": "9014352192", "address": "Hyderabad", "email": "sagar@gamil.com"},
+    {"name": "venkat", "phone": "6304761707", "address": "Hyderabad", "email": "venkat@gmail.com"}
 ]
 def display_contacts():
     for row in contact_list.get_children():
